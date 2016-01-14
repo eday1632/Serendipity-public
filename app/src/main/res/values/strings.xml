@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Serendipity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Search Preferences</string>
+    <string name="cancel_search">Stop searching</string>
+    <string name="search">Search</string>
+    <string name="business_type">Type of business</string>
+    <string name="distance">Distance in meters</string>
+    <string name="map">See map</string>
+    <string name="searching">Searching...</string>
+    <string name="location_error">Having difficulty finding your location...</string>
+    <string name="empty_yelp_results">Nothing for now!</string>
+    <string name="title_activity_search_results">Your Serendipity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
